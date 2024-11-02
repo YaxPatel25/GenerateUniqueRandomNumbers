@@ -1,0 +1,2 @@
+Using array list for dynamic resizing support and fast random access Using collection class provided shuffle() method for optimizing the element place suffling. which uses internal optimized algorithm to leverage fast access support provided by list.
+Used array list as it provides better memory efficiency compared to other type of lists. ArrayLists are simple to maintain and easily understandable.
